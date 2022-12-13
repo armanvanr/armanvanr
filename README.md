@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="" width="100"/>
+  <img src="https://drive.google.com/file/d/1gjc7eHuy-RBpxgR7RXjBV2pYyNRbu8tW/view?usp=sharing" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -13,6 +13,3 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
