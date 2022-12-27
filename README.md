@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/venska-arman-nur-rosyidin-313903b6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/venskaarman/">
+  <a href="https://www.instagram.com/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/m_artabak">
