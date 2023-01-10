@@ -26,9 +26,9 @@ I use a number of open source projects to work properly:
 - [ExpressJS] - fast node.js network app framework
 - [MongoDB] - developer-friendly noSQL database management
 
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO -
-   [NodeJS: <http://nodejs.org>
-   [Bootstrap]: <http://getbootstrap.com//>
-   [ExpressJS]: <http://expressjs.com>
+
+   [NodeJS: <http://nodejs.org/>
+   [Bootstrap]: <http://getbootstrap.com/>
+   [ExpressJS]: <http://expressjs.com/>
    [ReactJS]: <http://reactjs.org/>
    [MongoDB]: <http://www.mongodb.com/>
