@@ -1,6 +1,10 @@
 <div id="header" align="center">
-  Hello! 👋🏻
+  Hi, I'm Arman! 👋🏻
 </div>
+
+# Hi, I'm Arman! 👋🏻
+
+Currently, I'm learning full-stack web development!
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/venska-arman-nur-rosyidin-313903b6/">
@@ -13,7 +17,18 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<br/>
-<br/>
-<br/>
-<p>I'm currently learning ReactJS, NodeJS, MongoDB, MySQL, ExpressJS</p>
+
+I use a number of open source projects to work properly:
+
+- [ReactJS] - HTML enhanced for web apps!
+- [Bootstrap] - great UI boilerplate for modern web apps
+- [NodeJS] - evented I/O for the backend
+- [ExpressJS] - fast node.js network app framework
+- [MongoDB] - developer-friendly noSQL database management
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO -
+   [NodeJS: <http://nodejs.org>
+   [Bootstrap]: <http://getbootstrap.com//>
+   [ExpressJS]: <http://expressjs.com>
+   [ReactJS]: <http://reactjs.org/>
+   [MongoDB]: <http://www.mongodb.com/>
