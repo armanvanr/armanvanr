@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  Hi, I'm Arman! 👋🏻
-</div>
-
 # Hi, I'm Arman! 👋🏻
 
 Currently, I'm learning full-stack web development!
