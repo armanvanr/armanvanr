@@ -1,6 +1,6 @@
 # Hi, I'm Arman! 👋🏻
 
-Currently, I'm learning full-stack web development!
+I'm learning full-stack web development!
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/venska-arman-nur-rosyidin-313903b6/">
